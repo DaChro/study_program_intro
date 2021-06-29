@@ -52,8 +52,7 @@ This document is concerned with how to choose courses in order to collect the 60
 **Please note:** Your course program in semester 1 and 2 consists of elective and **mandatory** courses. Most of these mandatory courses are only offered **once a year**.  If you miss such a course, the next chance will be one year later, when you are supposed to do your external semester. This means that you have to choose mandatory courses in the semester when they are first offered to you, otherwise you risk a delay in your studies.
 
 
-### Module 1 
-#### "Research Methods in GI Science"
+### 1 Research Methods in GI Science
 
 
 Module 1 consists of 3 courses with a total of 10 ECTS, all of which are _mandatory_. The figure below shows an overview of the courses of this module.
@@ -72,8 +71,7 @@ The "GI-Forum" is a colloquium where ifgi invites scientists from other Universi
 
 ------------- 
 
-### Module 2 
-#### "Location in GI Applications"
+### 2 Location in GI Applications
 
 
 Module 2 consists of 2 courses with a total of 10 ECTS and involves some choices for students (see Specifics). The figure below shows an overview of the courses of this module.
@@ -94,8 +92,7 @@ b) The course "Location Based Services" is a combined lecture and exercise. You 
 ------------- 
 
 
-### Module 3 
-#### "Spatial Data Science"
+### 3 Spatial Data Science
 
 
 Module 3 consists of 2 courses with a total of 10 ECTS and involves some choices for students (see Specifics). The figure below shows an overview of the courses of this module. Its structure is identical to the one of module 2. The figure below shows an overview of the courses of this module.
@@ -116,8 +113,7 @@ b) The course "Analysis of Spatio-temporal Data" is a combined seminar and exerc
 ------------- 
 
 
-### Module 4 
-#### "Interdisciplinary Aspects"
+### 4 Interdisciplinary Aspects
 
 
 
@@ -137,8 +133,7 @@ There are three courses eligible for this module. You chose one of these 3 cours
 ------------- 
 
 
-### Module 5
-#### "Fundamentals in Geoinformatics"
+### 5 Fundamentals in Geoinformatics
 
 Module 5 consists of 3 courses with a total of 15 ECTS. The figure below shows an overview of the courses of this module.
 
@@ -156,8 +151,7 @@ b) The courses "Spatial Information Infrastructures" and "Reference Systems" are
 ------------- 
 
 
-### Module 6
-#### "Electives"
+### 6 Electives
 
 
 Module 6 consists of 2 courses with a total of 10 ECTS, both of which are elective courses. The figure below shows an overview of the courses of this module.
@@ -177,8 +171,7 @@ b) If you are not studying module 5, you have to choose at least one study proje
 ------------- 
 
 
-### Module 7
-#### "Practicals"
+### 7 Practicals
 
 Module 7 consists of 2 courses (study projects, also called project courses) with a total of 15 ECTS. Both study projects are mandatory, but the topics can be chosen from the course program. The figure below shows an overview of the courses of this module.
 
