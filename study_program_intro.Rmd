@@ -38,7 +38,9 @@ The document consists of:
 - A how-to for planning your personal course program
 - Some useful hints and links
 
+_**Please note:** The information provided in this document is not legally binding, but only a guidance for students. The only institution that provides legally binding information is the examination office!_
 
+  
 ## Module structure
 
 The total workload of the study program is 120 credit points (ECTS) distributed over 8 modules (out of 10) and 4 semesters. The third semester is reserved for doing an external semester (e.g., study abroad or conduct an internship) and in the fourth semester you will complete and defend your Master thesis. This means that the actual course program (lectures, seminars, study projects etc.) is completed in the first two semesters.
@@ -49,7 +51,7 @@ Each semester is intended to contain ~30 ECTS, in total you will receive:
 
 This document is concerned with how to choose courses in order to collect the 60 ECTS in the first two semesters.
 
-**Please note:** Your course program in semester 1 and 2 consists of elective and **mandatory** courses. Most of these mandatory courses are only offered **once a year**.  If you miss such a course, the next chance will be one year later, when you are supposed to do your external semester. This means that you have to choose mandatory courses in the semester when they are first offered to you, otherwise you risk a delay in your studies.
+**Note:** Your course program in semester 1 and 2 consists of elective and **mandatory** courses. Most of these mandatory courses are only offered **once a year**.  If you miss such a course, the next chance will be one year later, when you are supposed to do your external semester. This means that you have to choose mandatory courses in the semester when they are first offered to you, otherwise you risk a delay in your studies.
 
 
 ### 1 Research Methods in GI Science
@@ -185,6 +187,9 @@ magick::image_draw(magick::image_read("./fig/module7.PNG"))
 a) This module is mandatory for students who have already attended courses equivalent to those in module 5 (see above). This is the case for students who did their Bachelor´s degree at ifgi.
 
 b) Study projects are offered every semester. The specific topics of the projects usually change every semester, as they are closely aligned with the current research in our labs. Thus, each topic is usually offered only once.
+
+
+-------------
 
 
 ## Course booking system
