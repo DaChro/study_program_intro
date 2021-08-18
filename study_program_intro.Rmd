@@ -46,9 +46,14 @@ _**Please note:** The information provided in this document is not legally bindi
 The total workload of the study program is 120 credit points (ECTS) distributed over 8 modules (out of 10) and 4 semesters. The third semester is reserved for doing an external semester (e.g., study abroad or conduct an internship) and in the fourth semester you will complete and defend your Master thesis. This means that the actual course program (lectures, seminars, study projects etc.) is completed in the first two semesters.
 Each semester is intended to contain ~30 ECTS, in total you will receive:
 
-- 60 ECTS for courses
-- 30 ECTS for your external semester
-- 30 ECTS for writing and defending your Master thesis
+- 60 ECTS for courses (1st and 2nd semester)
+- 30 ECTS for your external semester (3rd semester)
+- 30 ECTS for writing and defending your Master thesis (4th semester)
+
+
+```{r,echo=F,out.width="80%",fig.align="center"}
+magick::image_draw(magick::image_read("./fig/module_overview.PNG"))
+```
 
 This document is concerned with how to choose courses in order to collect the 60 ECTS in the first two semesters.
 
@@ -120,7 +125,7 @@ b) The course "Analysis of Spatio-temporal Data" is a combined seminar and exerc
 
 
 
-Module 4 consists of 1 course with a total of 5 ECTS that can be chosen out of three courses (see Specifics).The figure below shows an overview of the courses of this module.
+Module 4 consists of 1 course with a total of 5 ECTS that can be chosen out of three courses (see Specifics). The figure below shows an overview of the courses of this module.
 
 
 
