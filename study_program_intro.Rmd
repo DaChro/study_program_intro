@@ -43,7 +43,7 @@ _**Please note:** The information provided in this document is not legally bindi
   
 ## Module structure
 
-The total workload of the study program is 120 credit points (ECTS) distributed over 8 modules (out of 10) and 4 semesters. The third semester is reserved for doing an external semester (e.g., study abroad or conduct an internship) and in the fourth semester you will complete and defend your Master thesis. This means that the actual course program (lectures, seminars, study projects etc.) is completed in the first two semesters.
+The total workload of the study program is 120 credit points (ECTS) distributed over 8 modules and 4 semesters. The third semester is reserved for doing an external semester (e.g., study abroad or conduct an internship) and in the fourth semester you will complete and defend your Master thesis. This means that the actual course program (lectures, seminars, study projects etc.) is completed in the first two semesters.
 Each semester is intended to contain ~30 ECTS, in total you will receive:
 
 - 60 ECTS for courses (1st and 2nd semester)
@@ -57,7 +57,7 @@ magick::image_draw(magick::image_read("./fig/module_overview.PNG"))
 
 This document is concerned with how to choose courses in order to collect the 60 ECTS in the first two semesters.
 
-**Note:** Your course program in semester 1 and 2 consists of elective and **mandatory** courses. Most of these mandatory courses are only offered **once a year**.  If you miss such a course, the next chance will be one year later, when you are supposed to do your external semester. This means that you have to choose mandatory courses in the semester when they are first offered to you, otherwise you risk a delay in your studies.
+_**Note:** Your course program in semester 1 and 2 consists of elective and **mandatory** courses. Most of these mandatory courses are only offered **once a year**.  If you miss such a course, the next chance will be one year later, when you are supposed to do your external semester. This means that you have to choose mandatory courses in the semester when they are first offered to you, otherwise you risk a delay in your studies._
 
 
 ### 1 Research Methods in GI Science
@@ -92,7 +92,7 @@ magick::image_draw(magick::image_read("./fig/module2.PNG"))
 
 **Specifics**:
 
-a) The courses "Location Based Services" and "Wayfinding and Navigation" are the default courses to attend within this module. However, you can choose to replace one of these two courses (_either_ "Location Based Services" _or_ "Wayfinding and Navigation" ) by an eligible (thematically fitting) elective course from our course program (called "Course Location in GI Applications" in the figure above). The offering of elective courses varies from semester to semester, and courses that are eligible as an elective for this module will be shown in the corresponding course overview of the module in the course booking system (see below).
+a) The courses "Location Based Services" and "Wayfinding and Navigation" are the default courses to attend within this module. However, you can choose to replace one of these two courses (_either_ "Location Based Services" _or_ "Wayfinding and Navigation" ) by an eligible (thematically fitting) elective course from our course program (called "Course Location in GI Applications" in the figure above). The offering of elective courses varies from semester to semester, and courses that are eligible as an elective for this module will be shown in the corresponding course overview of the module in the course booking system (see [below](#cms)).
 
 b) The course "Location Based Services" is a combined lecture and exercise. You have to attend both in the same semester. This is why it is treated as one 5 ECTS course.
 
@@ -113,7 +113,7 @@ magick::image_draw(magick::image_read("./fig/module3.PNG"))
 
 **Specifics**:
 
-a) The courses "Analysis of Spatio-temporal Data" and "Geosimulation Modelling" are the default courses to attend within this module. However, you can choose to replace one of these two courses (_either_ "Analysis of Spatio-temporal Data" _or_ "Geosimulation Modelling" ) by an eligible (thematically fitting) elective course from our course program (called "Course Spatial Data Science" in the figure above). The offering of elective courses varies from semester to semester, and courses that are eligible as an elective for this module will be shown in the corresponding course overview of the module in the course booking system (see below).
+a) The courses "Analysis of Spatio-temporal Data" and "Geosimulation Modelling" are the default courses to attend within this module. However, you can choose to replace one of these two courses (_either_ "Analysis of Spatio-temporal Data" _or_ "Geosimulation Modelling" ) by an eligible (thematically fitting) elective course from our course program (called "Course Spatial Data Science" in the figure above). The offering of elective courses varies from semester to semester, and courses that are eligible as an elective for this module will be shown in the corresponding course overview of the module in the course booking system (see [below](#cms)).
 
 b) The course "Analysis of Spatio-temporal Data" is a combined seminar and exercise. You have to attend both in the same semester. This is why it is treated as one 5 ECTS course.
 
@@ -135,7 +135,7 @@ magick::image_draw(magick::image_read("./fig/module4.PNG"))
 
 **Specifics**:
 
-There are three courses eligible for this module. You chose one of these 3 courses to complete this module.
+There are three courses eligible for this module: "Spatial Cognition", "Geoinformation in Society" and "Transdiciplinary Aspects of Geoinformation". You chose one of these 3 courses to complete this module.
 
 
 ------------- 
@@ -172,8 +172,9 @@ magick::image_draw(magick::image_read("./fig/module6.PNG"))
 **Specifics**:
 
 a) You can choose any combination of study projects and other courses from the course program to complete this module (one study project and one non-project course, two study projects, or two non-project courses).
+The offering of elective courses varies from semester to semester, and courses that are eligible as an elective for this module will be shown in the corresponding course overview of the module in the course booking system (see [below](#cms)).
 
-b) If you are not studying module 5, you have to choose at least one study project in this module.
+b) If you are not studying module 7, you have to choose **at least one study project** in this module.
 
 
 ------------- 
@@ -198,9 +199,9 @@ b) Study projects are offered every semester. The specific topics of the project
 -------------
 
 
-## Course booking system
+## Course booking system {#cms}
 
-To receive the ECTS at the end of each semester for the courses you have attended you need to enroll in those courses in the University´s course booking system (QISPOS). You can find it [here](https://studium.uni-muenster.de/qisserver). There is a specific period for enrolling in courses during the start of the semester.
+To receive the ECTS at the end of each semester for the courses you have attended you need to enroll in those courses in the University´s course booking system (QISPOS). You can find it [here](https://studium.uni-muenster.de/qisserver). There is a specific period for enrolling in courses during the semester.
 
 ```{r,echo=F,out.width="100%",fig.align="center"}
 magick::image_draw(magick::image_read("./fig/qispos.PNG"))
@@ -232,7 +233,7 @@ The next example shows the module "Electives" from summer semester 2021
 magick::image_draw(magick::image_read("./fig/overview_electives.PNG"))
 ```
 
-As you can see, there are four seminars, one combined lecture/exercise and two study projects ("project course") offered for this module.
+As you can see, there are four seminars, one combined lecture/exercise and two study projects ("project course") offered for this module. Please note that elective courses are often eligible for more than one module. In the course booking system they will appear in different modules as well, but of course each course can only be attended once. You need to decide in which module you want to choose such an elective course (this will depend on what other courses you are planning to attend and in which modules you still need to collect ECTS).
 
 
 ## Plan your personal course program
