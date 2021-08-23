@@ -36,7 +36,7 @@ The document consists of:
 - Brief descriptions of the modules of semesters 1 and 2 and the choice of courses
 - A brief description of the course booking system
 - A how-to for planning your personal course program
-- Some useful hints and links
+
 
 _**Please note:** The information provided in this document is not legally binding, but only a guidance for students. The only institution that provides legally binding information is the examination office!_
 
@@ -244,7 +244,7 @@ The next step for you will be to make up your mind about the courses you are goi
 2) Select whether you are starting in the winter or summer semester and whether you did your Bachelor´s degree at ifgi or at another institution.
 4) Check the resulting study plan. It will show our recommendation for how to book mandatory and elective courses.
 5) Note down all blue courses. These are mandatory and should be chosen as recommended.
-6) Now check the green Courses. These are course involving choices, i.e. elective courses (modules 4 and 6) or courses that can be replaced (modules 2 and 3). Check the corresponding modules in the course booking system to see what (other) choices are available in the current semester.
+6) Now check the green courses. These are courses involving choices, i.e. elective courses (modules 4 and 6) or courses that may be replaced (modules 2 and 3). Check the corresponding modules in the course booking system to see what (other) choices are available in the current semester.
 7) Select courses according to the green blocks in the study plan to complete your program. You should end up with ~30 ECTS for semester 1.
 
 
