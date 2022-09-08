@@ -1,7 +1,7 @@
 ---
 title: "M.Sc. Geoinformatics and Spatial Data Science - Course Program"
 author: "Christian Knoth"
-date: "*May 26, 2021*"
+date: "*Sep 8, 2022*"
 output: 
   html_document:
     highlight: tango
