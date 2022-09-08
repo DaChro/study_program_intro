@@ -126,7 +126,7 @@ magick::image_draw(magick::image_read("./fig/module3.PNG"))
 
 **Specifics**:
 
-a) The courses "Analysis of Spatio-temporal Data" and "Geosimulation Modelling" are the default courses to attend within this module. However, you can choose to replace one of these two courses (_either_ "Analysis of Spatio-temporal Data" _or_ "Geosimulation Modelling" ) by an eligible (thematically fitting) elective course from our course program (called "Course Spatial Data Science" in the figure above). The offering of elective courses varies from semester to semester, and courses that are eligible as an elective for this module will be shown in the corresponding course overview of the module in the course booking system (see [below](#cms)).
+a) The courses "Analysis of Spatio-temporal Data" and "Machine Learning for Visual Spatio-Temporal Data" are the default courses to attend within this module. However, you can choose to replace one of these two courses (_either_ "Analysis of Spatio-temporal Data" _or_ "Machine Learning for Visual Spatio-Temporal Data" ) by an eligible (thematically fitting) elective course from our course program (called "Course Spatial Data Science" in the figure above). The offering of elective courses varies from semester to semester, and courses that are eligible as an elective for this module will be shown in the corresponding course overview of the module in the course booking system (see [below](#cms)).
 
 b) The course "Analysis of Spatio-temporal Data" is a combined seminar and exercise. You have to attend both in the same semester. This is why it is treated as one 5 ECTS course.
 
@@ -232,13 +232,13 @@ Here you will find an overview of the modules of your study program.
 magick::image_draw(magick::image_read("./fig/overview_study program.PNG"))
 ```
 
-Click on one of the modules to see all courses that are eligible for this module and that are offered in the current semester. The example below is from summer 2021 and shows the module "Spatial Data Science". 
+Click on one of the modules to see all courses that are eligible for this module and that are offered in the current semester. The example below is from winter 2021/2022 and shows the module "Location in GI Applications". 
 
 ```{r,echo=F,out.width="100%",fig.align="center"}
-magick::image_draw(magick::image_read("./fig/overview_spatialdatascience.PNG"))
+magick::image_draw(magick::image_read("./fig/overview_location_in_GI.png"))
 ```
 
-As you can see, the course _Geosimulation Modelling_ (which is one of the default courses in this module) is offered in this semester along with two other thematically fitting courses: _Spatial Data Science with R _ and _Introduction to Synthetic Aperture Radar (SAR) technology and spaceborne SAR data analysis_. The latter two are no default courses for that module, but as you have read in the module specifics above, you could in this example choose to replace either "Geosimulation Modelling" or "Analysis of Spatio-temporal Data" (offered in winter semester) by one of these two courses. 
+As you can see, the course _Wayfinding and Navigation_ (which is one of the default courses in this module) is offered in this semester along with one other thematically fitting course: _Semantic Trajectory Analysis _. The latter is no default course for that module, but as you have read in the module specifics above, you could in this example choose to replace either "Wayfinding and Navigation" or "Location Based Services" (offered in summer semester) by one of these two courses. 
 
 The next example shows the module "Electives" from summer semester 2021
 
