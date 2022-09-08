@@ -17,6 +17,18 @@ link-citations: yes
 nocite: '@*'
 ---
 
+```{css, echo=FALSE}
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #7AB629;
+    border-color: #337ab7;
+}
+a:link {
+  color: #7AB629;
+}
+```
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -24,6 +36,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, echo=F,results=F,message=F,warning=F}
 library(magick)
 ```
+
 
 
 ## About this document
