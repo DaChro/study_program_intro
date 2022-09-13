@@ -83,7 +83,7 @@ b)  If you are not studying module 7, you have to choose **at least one study pr
 
 Module 7 consists of 2 courses (study projects, also called project courses) with a total of 15 ECTS. Both study projects are mandatory, but the topics can be chosen from the course program. The figure below shows an overview of the courses of this module.
 
-![](.module7.PNG){fig-align="center"}
+![](./module7.PNG){fig-align="center"}
 
 **Specifics**:
 
