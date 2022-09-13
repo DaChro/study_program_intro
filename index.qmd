@@ -1,15 +1,12 @@
 ---
 title: "Course Program Info"
-title-block-style: plain
+
 toc: false
 code-tools: false
 subtitle: "M.Sc. Geoinformatics and Spatial Data Science"  
 
 ---
 
-:::{.column-body-outset-right}
-
-![](source/ifgi_logo.png){fig-align="center" width="300"}
 
 ## Welcome
 
@@ -24,4 +21,4 @@ The website consists of:
 
 ***Please note:** The information provided on this website is not legally binding, but only a guidance for students. The only institution that provides legally binding information is the examination office!*
 
-:::
+![](source/ifgi_logo.png){fig-align="center" width="300"}
