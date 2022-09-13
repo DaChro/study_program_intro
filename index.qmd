@@ -1,6 +1,5 @@
 ---
 title: "Course Program Info"
-
 toc: false
 code-tools: false
 subtitle: "M.Sc. Geoinformatics and Spatial Data Science"  
