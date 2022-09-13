@@ -16,7 +16,7 @@ The total workload of the study program is 120 credit points (ECTS) distributed 
 
 Module 1 consists of 3 courses with a total of 10 ECTS, all of which are *mandatory*. The figure below shows an overview of the courses of this module.
 
-![](module1.PNG){fig-align="center"}
+![](./module1.PNG){fig-align="center"}
 
 **Specifics**:
 
@@ -26,7 +26,7 @@ The "GI-Forum" is a colloquium where ifgi invites scientists from other Universi
 
 Module 2 consists of 2 courses with a total of 10 ECTS and involves some choices for students (see Specifics). The figure below shows an overview of the courses of this module.
 
-![](module2.png){fig-align="center"}
+![](./module2.PNG){fig-align="center"}
 
 **Specifics**:
 
@@ -38,7 +38,7 @@ b)  The course "Location Based Services" is a combined lecture and exercise. You
 
 Module 3 consists of 2 courses with a total of 10 ECTS and involves some choices for students (see Specifics). The figure below shows an overview of the courses of this module. Its structure is identical to the one of module 2. The figure below shows an overview of the courses of this module.
 
-![](module3.png){fig-align="center"}
+![](./module3.PNG){fig-align="center"}
 
 **Specifics**:
 
@@ -50,7 +50,7 @@ b)  The course "Analysis of Spatio-temporal Data" is a combined seminar and exer
 
 Module 4 consists of 1 course with a total of 5 ECTS that can be chosen out of three courses (see Specifics). The figure below shows an overview of the courses of this module.
 
-![](module4.png){fig-align="center"}
+![](./module4.PNG){fig-align="center"}
 
 **Specifics**:
 
@@ -60,7 +60,7 @@ There are three courses eligible for this module: "Spatial Cognition", "Geoinfor
 
 Module 5 consists of 3 courses with a total of 15 ECTS. The figure below shows an overview of the courses of this module.
 
-![](module5.png){fig-align="center"}
+![](./module5.PNG){fig-align="center"}
 
 **Specifics**:
 
@@ -71,7 +71,7 @@ b)  The courses "Spatial Information Infrastructures" and "Reference Systems" ar
 
 Module 6 consists of 2 courses with a total of 10 ECTS, both of which are elective courses. The figure below shows an overview of the courses of this module.
 
-![](module6.png){fig-align="center"}
+![](./module6.PNG){fig-align="center"}
 
 **Specifics**:
 
@@ -83,7 +83,7 @@ b)  If you are not studying module 7, you have to choose **at least one study pr
 
 Module 7 consists of 2 courses (study projects, also called project courses) with a total of 15 ECTS. Both study projects are mandatory, but the topics can be chosen from the course program. The figure below shows an overview of the courses of this module.
 
-![](module7.png){fig-align="center"}
+![](.module7.PNG){fig-align="center"}
 
 **Specifics**:
 
