@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "M.Sc. GI&SDS"
+  favicon: source/ifgi_logo_only.png
+  navbar:
+    logo: source/ifgi_logo_only_white.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: source/module_structure.qmd
+        text: Module structure
+      - href: source/course_booking_system.qmd
+        text: Course booking system
+      - href: source/individual_program.qmd
+        text: Plan your program
+
+format:
+  html:
+    theme: [flatly,theme.scss]
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: true
+
+

@@ -1,0 +1,14 @@
+/*-- scss:defaults --*/
+// Base document colors
+$body-color: #3F3F3C;
+$link-color: #7AB629;
+$navbar-bg:  #7AB629;
+$navbar-fg: #EDEDED;
+$sidebar-bg: #EDEDED;
+
+
+// import google fonts
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+// use Mulish, if possible
+$font-family-sans-serif: "Mulish",sans-serif;

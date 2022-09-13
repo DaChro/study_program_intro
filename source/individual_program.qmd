@@ -1,0 +1,25 @@
+---
+toc: false
+---
+
+
+# Plan your personal course program
+
+The next step for you will be to make up your mind about the courses you are going to attend in your first semester. We recommend these steps:
+
+1) Go to the [study program website](https://master-geoinformatics.com/)and scroll down to the interactive study plan
+2) Select whether you are starting in the winter or summer semester and whether you did your Bachelor´s degree at ifgi or at another institution.
+4) Check the resulting study plan. It will show our recommendation for how to book mandatory and elective courses.
+5) Note down all blue courses. These are mandatory and should be chosen as recommended.
+6) Now check the green courses. These are courses involving choices, i.e. elective courses (modules 4 and 6) or courses that may be replaced (modules 2 and 3). Check the corresponding modules in the course booking system to see what (other) choices are available in the current semester.
+7) Select courses according to the green blocks in the study plan to complete your program. You should end up with ~30 ECTS for semester 1.
+
+
+**Please note** that the choices you make in semester 1 may affect the options you have in semester 2. For example: if you start in winter semester and choose to replace the course "Wayfinding and Navigation" by an eligible elective course, you can no longer replace the course "Location-Based Services" that will be offered in the second semester (summer). "Location-Based Services" will turn into a mandatory course in this case.
+
+
+## Flexibility in the order of elective courses
+
+The distribution of elective courses over the two semesters -as shown in the interactive study plan- is our recommendation. You can choose a different order. However, you need to make sure to complete ~30ECTS per semester.
+
+**Example:** Starting in winter, you may choose not to do "Geoinformation in Society" (module 4), but instead attend both elective courses (module 6). In the summer semester, you will then need to choose either "Spatial Cognition" or "Geoinformatics in Transdisciplinary Education" for completing the module 4, but you do no longer need any course in module 6 since it has been completed in the winter semester already. The number of ECTS per semester remains the same as in our recommendation.
