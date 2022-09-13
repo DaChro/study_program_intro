@@ -8,7 +8,7 @@ toc: false
 
 To receive the ECTS at the end of each semester for the courses you have attended you need to enroll in those courses in the University´s course booking system (QISPOS). You can find it [here](https://studium.uni-muenster.de/qisserver). There is a specific period for enrolling in courses during the semester.
 
-![](./qispos.PNG){fig-align="center"}
+![](qispos.PNG){fig-align="center"}
 
 To find courses relevant to your study program:
 
@@ -22,13 +22,13 @@ Here you will find an overview of the modules of your study program.
 
 Click on one of the modules to see all courses that are eligible for this module and that are offered in the current semester. The example below is from winter 2021/2022 and shows the module "Location in GI Applications". 
 
-![](./overview_location_in_GI.png){fig-align="center"}
+![](overview_location_in_GI.png){fig-align="center"}
 
 As you can see, the course _Wayfinding and Navigation_ (which is one of the default courses in this module) is offered in this semester along with one other thematically fitting course: _Semantic Trajectory Analysis _. The latter is no default course for that module, but as you have read in the module specifics above, you could in this example choose to replace either "Wayfinding and Navigation" or "Location Based Services" (offered in summer semester) by one of these two courses. 
 
 The next example shows the module "Electives" from summer semester 2021
 
-![](./overview_electives.PNG){fig-align="center"}
+![](overview_electives.PNG){fig-align="center"}
 
 As you can see, there are four seminars, one combined lecture/exercise and two study projects ("project course") offered for this module. Please note that elective courses are often eligible for more than one module. In the course booking system they will appear in different modules as well, but of course each course can only be attended once. You need to decide in which module you want to choose such an elective course (this will depend on what other courses you are planning to attend and in which modules you still need to collect ECTS).
 
