@@ -75,7 +75,7 @@ Module 6 consists of 2 courses with a total of 10 ECTS, both of which are electi
 
 **Specifics**:
 
-a)  You can choose any combination of study projects and other courses from the course program to complete this module (one study project and one non-project course, two study projects, or two non-project courses). The offering of elective courses varies from semester to semester, and courses that are eligible as an elective for this module will be shown in the corresponding course overview of the module in the course booking system (see [below](#cms)).
+a)  You can choose any combination of study projects and other courses from the course program to complete this module (one study project and one non-project course, two study projects, or two non-project courses). The offering of elective courses varies from semester to semester, and courses that are eligible as an elective for this module will be shown in the corresponding course overview of the module in the course booking system (see [course booking system](course_booking_system.html)).
 
 b)  If you are not studying module 7, you have to choose **at least one study project** in this module.
 
