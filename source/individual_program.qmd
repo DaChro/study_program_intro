@@ -5,7 +5,7 @@ toc: false
 
 # Plan your personal course program
 
-The next step for you will be to make up your mind about the courses you are going to attend in your first semester. We recommend these steps:
+Before you start planning your individual program, read the notes about the [module structure](module_structure.html) on this website. The next step for you will be to make up your mind about the courses you are going to attend in your first semester. We recommend these steps:
 
 1) Go to the [study program website](https://master-geoinformatics.com/)and scroll down to the interactive study plan
 2) Select whether you are starting in the winter or summer semester and whether you did your Bachelor´s degree at ifgi or at another institution.
